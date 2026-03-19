@@ -3,4 +3,4 @@ Each sub-system checklist is:
 - Focused on invariants (must always be true)
 - Designed for verification, not suggestion
 
-Think of each system like a fractal, it is both the larger system and ord part of a system. This is how system engineering should be, modules that abide by core principles but open to different implementations.  
+Think of every system as a fractal: it is simultaneously a complete system on its own and a component of a larger system. This is the essence of systems engineering — designing modules that adhere to core principles while remaining flexible enough to support multiple implementations.
