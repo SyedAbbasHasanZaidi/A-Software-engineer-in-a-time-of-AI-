@@ -69,11 +69,14 @@ All trust decisions must be enforced at the system boundary.
 - [ ] Does the system assume the caller is trusted? (If yes → FAIL)
 - [ ] Are sensitive operations restricted to controlled entry points?
 - [ ] Is the boundary clearly defined and consistently enforced?
+- [ ] **Is rate limiting or throttling enforced for endpoints that could be abused?**
+- [ ] Are denial-of-service scenarios mitigated or accounted for?
 
 ### How this enforces the principle
 - Ensures **zero trust outside the boundary**
 - Prevents **client-side bypasses**
 - Centralizes security enforcement
+- Protects against **abuse, overload, and accidental misusage**
 
 ---
 
