@@ -256,7 +256,7 @@ IF YOU CANNOT ANSWER THESE → SYSTEM IS NOT UNDERSTOOD
 
 ## 🌟 WHY THIS MODULE IS IMPORTANT
 
-This checklist module acts as the **architectural conscience** for the engineering team. Without a structured way to evaluate code and system design, teams rely entirely on individual memory, intuition, and experience—which inevitably fails under pressure or tight deadlines. 
+This checklist module acts as the **architectural conscience** for the engineering of a 'Web app' system. Withi=out these fundamentals reviewing AI assisted code can become a bottleneck. 
 
 Here is why adopting this module is critical for the success of your web application:
 
